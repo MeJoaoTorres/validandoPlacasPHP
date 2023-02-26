@@ -1,0 +1,34 @@
+#logoSenai {
+    height: 160px;
+    width: 41px;
+}
+
+body {
+    /* margin: 0 auto; */
+    text-align: center;
+    margin-top: 25%;
+}
+#placa {
+    width:500px;
+    text-align: center;
+}
+
+#placa:hover {
+    color: red;
+    font-size: 1.4em;
+    border: 1px solid red;
+    transition: 0.5s;
+}
+
+
+form {
+    position: absolute;
+    left: 500px;
+    width: 50%;
+    top: 25%;
+}
+#exampleInputEmail1 {
+    text-align: center;
+    width: 50%;
+    
+}

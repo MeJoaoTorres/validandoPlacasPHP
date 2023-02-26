@@ -1,0 +1,26 @@
+#logoSenai {
+    height: 160px;
+    width: 41px;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 25%;
+}
+#placa {
+    width:500px;
+    text-align: center;
+}
+
+#placa:hover {
+    color: red;
+    font-size: 1.4em;
+    border: 1px solid red;
+    transition: 0.5s;
+}
+
+
+.backButton {
+    background-color: red;
+}
